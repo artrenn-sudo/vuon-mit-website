@@ -53,3 +53,4 @@ Bạn không cần biết lập trình phức tạp và không cần chờ đợ
 - `index.html`: File HTML chính của trang web (đã tích hợp đầy đủ styling, animation, các khung dự án và khung Quà sinh nhật mới).
 - `assets/`: Chứa ảnh mã QR ngân hàng (`QRcode.svg`) và stylesheet giao diện (`style.css`).
 - `Vuon Mit-FC MisThy.html` & `Vuon Mit-FC MisThy_files/`: Bản sao gốc dự phòng khi cần đối chiếu.
+
